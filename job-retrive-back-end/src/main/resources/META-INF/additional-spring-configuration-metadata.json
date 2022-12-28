@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'api.key'"
+  },
+  {
+    "name": "api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.url'"
+  },
+  {
+    "name": "api.default.search",
+    "type": "java.lang.String",
+    "description": "A description for 'api.default.search'"
+  }
+]}
