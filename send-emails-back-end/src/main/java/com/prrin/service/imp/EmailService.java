@@ -72,7 +72,7 @@ public class EmailService implements IEmailService {
 			helper.setTo(email.getTo());
 
 			helper.setSubject(email.getSubject());
-			helper.setText(html);
+			helper.setText(html, true);
 
 			javaMailSender.send(message);
 
